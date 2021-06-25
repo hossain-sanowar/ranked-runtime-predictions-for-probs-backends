@@ -1,0 +1,28 @@
+The first Rankings were generated using the raw costs.
+The second Rankings were generated using the 'healy' costs.
+a<b<c is representative for the order of costs of the respective backends.
+-----------------------
+Rankings:
+k<p<z: 49162,(0.082330%)
+k<z<p: 28249,(0.047308%)
+p<k<z: 78189,(0.130940%)
+p<z<k: 171597,(0.287368%)
+z<k<p: 67653,(0.113296%)
+z<p<k: 202284,(0.338758%)
+others: 0,(0.000000%)
+#k is fastest: 77411,(0.129638%)
+#p is fastest: 249786,(0.418308%)
+#z is fastest: 269937,(0.452054%)
+-----------------------
+Rankings:
+k<p<z: 87131,(0.145915%)
+k<z<p: 16867,(0.028247%)
+p<k<z: 286648,(0.480040%)
+p<z<k: 102373,(0.171441%)
+z<k<p: 36114,(0.060479%)
+z<p<k: 68001,(0.113879%)
+others: 0,(0.000000%)
+#k is fastest: 103998,(0.174162%)
+#p is fastest: 389021,(0.651480%)
+#z is fastest: 104115,(0.174358%)
+-----------------------

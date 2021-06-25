@@ -1,0 +1,7 @@
+[
+	{
+		"class_weight": [null],
+		"random_state": [3012],
+		"max_iter": [10,100,1000,10000]
+	}
+]
