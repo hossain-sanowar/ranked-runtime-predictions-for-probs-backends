@@ -1,4 +1,9 @@
-# Repository containing the code, data and results for the bachelor's thesis: "Backend selection for ProB based on ranked runtime predictions"
+# Ranking Model Checking Backends for Automated Selection
+
+This repository contains the code for the experiments conducted on our paper,
+"Ranking Model Checking Backends for Automated Selection via Classification and Regression Learning" by Dunkelau & Baldus (2021),
+to appear in the proceedings of the [OVERLAY'21 Workshop](https://overlay.uniud.it/workshop/2021/).
+
 ## Repo outline
 
 ### 'data'
