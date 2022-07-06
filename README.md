@@ -36,3 +36,21 @@ to appear in the proceedings of the [OVERLAY'21 Workshop](https://overlay.uniud.
   - **important:** output with the current configuration has a size of around 50GB
 - `start_learners_miniconda_script.sh`
   - script for running the program on the HHU cluster
+
+## Citing this work
+
+This work was published in the OVERLAY'21 Workshop proceedings. If you want to cite this work, please use the following bibtex entry.
+
+```bibtext
+@InProceedings{dunkelau2021ranking,
+  author    = {Dunkelau, Jannik and Baldus, Leo},
+  booktitle = {3rd Workshop on Artificial Intelligence and Formal Verification},
+  title     = {Ranking Model Checking Backends for Automated Selection via Classification and Regression Learning},
+  year      = {2021},
+  month     = sep,
+  pages     = {83--89},
+  series    = {CEUR Workshop Proceedings},
+  volume    = {2987},
+  url       = {http://ceur-ws.org/Vol-2987/paper14.pdf},
+}
+```
